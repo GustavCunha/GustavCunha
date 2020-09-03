@@ -7,7 +7,7 @@
 
 ## About us
 
-👾 Workint at <img align="center" width="48px" src="https://scontent.fssa15-1.fna.fbcdn.net/v/t1.0-9/14729194_1137588779681859_4294315325039355851_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=bPXpC2SHZNsAX_RFLoB&_nc_ht=scontent.fssa15-1.fna&oh=f7cd39df8fe36a5344884bb24eb81843&oe=5F781D9D"/>
+👾 Workint at <img align="center" width="48px" src="https://scontent.fssa15-1.fna.fbcdn.net/v/t1.0-9/14729194_1137588779681859_4294315325039355851_n.jpg?_nc_cat=103&_nc_sid=09cbfe&_nc_ohc=bPXpC2SHZNsAX_RFLoB&_nc_ht=scontent.fssa15-1.fna&oh=f7cd39df8fe36a5344884bb24eb81843&oe=5F781D9D"/> <br/>
 🇧🇷  Born and livining in Salvador, Brazil <br>
 
 ### Languages and Tools:
