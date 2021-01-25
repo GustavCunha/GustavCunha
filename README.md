@@ -3,7 +3,7 @@
 ## :scroll: About us 
 
 :computer: Workint at <img align="center" width="30px" src="https://media-exp1.licdn.com/dms/image/C560BAQHFLnOLOUEj2g/company-logo_200_200/0/1519912122362?e=1616630400&v=beta&t=3SgGqB6LSXUg2lIRbldMdnETRY_2uKtq0k2Gyw5zYxE"/> <br/>
-:mortar_board: Graduating in Computer Science at UNIFACS (7/8) <br/>
+:mortar_board: Graduating in Computer Science at UNIFACS (8/8) <br/>
 🇧🇷  Lives in Salvador-BA, Brazil <br>
 
 #### Connect with me:
@@ -27,5 +27,6 @@
 <img align="left" alt="NodeJs" width="48px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" alt="PostgreeSQL" width="48px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" alt="Typescript" width="48px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img align="left" alt="MongoDB" width="48px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 
