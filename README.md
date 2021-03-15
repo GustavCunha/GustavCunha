@@ -26,6 +26,8 @@ Up to the present moment I work with the Languages and Technologies listed below
 <img align="left" alt="Typescript" width="48px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img align="left" alt="MongoDB" width="48px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
+<br/> 
+
 #### Connect with me:
 [<img align="center" alt="LinkedIn" width="30px" margin="5px" src="https://img.icons8.com/fluent/30/000000/linkedin.png" />](https://www.linkedin.com/in/gustavo-cunha-contact/) 
 [<img align="center" alt="Instagram" width="30px" margin="5px" src="https://img.icons8.com/fluent/30/000000/instagram-new.png" />](https://www.instagram.com/gustav.oliveira_/)
