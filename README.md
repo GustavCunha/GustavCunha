@@ -27,6 +27,7 @@ So far I work and have knowledge of the following Languages and Technologies lis
 <img align="left" alt="MongoDB" width="48px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 <br/> 
+<br/>
 
 #### Connect with me:
 [<img align="center" alt="LinkedIn" width="30px" margin="5px" src="https://img.icons8.com/fluent/30/000000/linkedin.png" />](https://www.linkedin.com/in/gustavo-cunha-contact/) 
