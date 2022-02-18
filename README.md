@@ -1,9 +1,9 @@
 # Hello, My name is Gustavo Cunha :laughing:
 
 ## :scroll: About me 
-I am a systems analyst with a focus on fullstack development. I work with web, backend and mobile. <br/><br/>
-:computer: I work at <img align="center" width="30px" src="https://media-exp1.licdn.com/dms/image/C560BAQHFLnOLOUEj2g/company-logo_200_200/0/1519912122362?e=1627516800&v=beta&t=Kv3Mj6XIzJtxXyQBniiEhyxGZdcMmSuBJ216UFviNWA"/> <br/>
-:mortar_board: Graduating in Computer Science at UNIFACS - 8th Semester <br/>
+I'm a Systems Analyst with a focus on fullstack development. I work with web, backend and mobile. But my preference is mobile.<br/><br/>
+:computer: I work at <img align="center" width="30px" src="https://media-exp1.licdn.com/dms/image/C560BAQHFLnOLOUEj2g/company-logo_200_200/0/1519912122362?e=1627516800&v=beta&t=Kv3Mj6XIzJtxXyQBniiEhyxGZdcMmSuBJ216UFviNWA" alt="ZCR Soluções"/> <br/>
+:mortar_board: Graduate in Computer Science at UNIFACS <br/>
 🇧🇷  I live in Salvador/BA, Brazil <br>
 
 I love new challenges and learn new technologies.
