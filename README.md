@@ -6,8 +6,7 @@ I'm a Systems Analyst with a focus on fullstack development. I work with web, ba
 :mortar_board: Graduate in Computer Science at UNIFACS <br/>
 🇧🇷  I live in Salvador/BA, Brazil <br>
 
-I love new challenges and learn new technologies.
-So far I work and have knowledge of the following Languages and Technologies listed below.
+I love new challenges and learning new technologies. I've been studying React Native a lot, and I want to deepen my knowledge in NodeJs. I work with and have knowledge of the following Languages and Technologies listed below.
 
 #### Languages and Tools:
 
