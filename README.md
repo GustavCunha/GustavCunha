@@ -2,7 +2,7 @@
 
 ## :scroll: About me 
 I'm a Systems Analyst with a focus on fullstack development. I work with web, backend and mobile. But my preference is mobile.<br/><br/>
-:computer: I work at <img align="center" width="30px" src="https://media-exp1.licdn.com/dms/image/C560BAQHFLnOLOUEj2g/company-logo_200_200/0/1519912122362?e=1627516800&v=beta&t=Kv3Mj6XIzJtxXyQBniiEhyxGZdcMmSuBJ216UFviNWA" alt="ZCR Soluções"/> <br/>
+:computer: I work at <img align="center" resizeMode="contains" width="100px" src="https://www.lincros.com/hs-fs/hubfs/raw_assets/public/Lincros_June2020/images/lincros-logo-dark.png?width=195&name=lincros-logo-dark.png" alt="Lincros"/> <br/>
 :mortar_board: Graduate in Computer Science at UNIFACS <br/>
 🇧🇷  I live in Salvador/BA, Brazil <br>
 
