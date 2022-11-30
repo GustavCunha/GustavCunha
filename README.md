@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cunha-contact/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustav.oliveira_/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavo.oliveira-98@hotmail.com)
+<hr/>
 
 #### About me 📄:
 I'm a fullstack software developer. Working with backend, frontend and mobile development.
@@ -20,6 +21,7 @@ I really like new challenges and learning new technologies. I've been studying a
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcunha&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavcunha&layout=compact)](https://github.com/gustavcunha/github-readme-stats)
+<hr/>
 
 #### Everyday Technologies 🖥️:
 
