@@ -7,20 +7,13 @@
 <hr/>
 
 #### About me 📄:
-I'm a fullstack software developer. Working with backend, frontend and mobile development.
-
-I'm passionate about mobile.
-
 ><div>
+  >I'm a fullstack software developer. Working with backend, frontend and mobile development.<br/>
+  >I'm passionate about mobile.<br/><br/>
   >I work at <img align="center" resizeMode="contain" height="20px" src="https://www.lincros.com/hs-fs/hubfs/raw_assets/public/Lincros_June2020/images/lincros-logo-dark.png?width=195&name=lincros-logo-dark.png" alt="Lincros"/> <br/>
   >Graduated in Computer Science from <img align="center" resizeMode="contain" height="20px" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg" alt="Unifacs"/> <br/>
   >I live in Salvador, Bahia <img align="center" resizeMode="contain" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/210px-Bandeira_da_Bahia.svg.png" alt="Unifacs"/> <br/>
 </div>
-
-I really like new challenges and learning new technologies. I've been studying a lot of React Native, and I want to deepen my knowledge in technologies that use JavaScript.
-
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavcunha&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavcunha&layout=compact)](https://github.com/gustavcunha/github-readme-stats)
 <hr/>
 
 #### Everyday Technologies 🖥️:
@@ -39,3 +32,9 @@ I really like new challenges and learning new technologies. I've been studying a
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+<br/>
+
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gustavcunha&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavcunha&layout=compact&langs_count=5&theme=dark" />
+</div  
