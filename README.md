@@ -10,7 +10,7 @@
 ><div>
   >I'm a fullstack software developer. Working with backend, frontend and mobile development.<br/>
   >I'm passionate about mobile.<br/><br/>
-  >I work at <img align="center" resizeMode="contain" height="20px" src="https://www.lincros.com/hs-fs/hubfs/raw_assets/public/Lincros_June2020/images/lincros-logo-dark.png?width=195&name=lincros-logo-dark.png" alt="Lincros"/> <br/>
+  >I work at <img align="center" resizeMode="contain" height="20px" src="https://portalerp.com/images/joomla/SENIOR_LOGO_New.png" alt="Senior"/> <br/>
   >Graduated in Computer Science from <img align="center" resizeMode="contain" height="20px" src="https://www.unifacs.br/wp-content/uploads/2022/05/logo-unifacs-largo.svg" alt="Unifacs"/> <br/>
   >I live in Salvador, Bahia <img align="center" resizeMode="contain" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/210px-Bandeira_da_Bahia.svg.png" alt="Unifacs"/> <br/>
 </div>
